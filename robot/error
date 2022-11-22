@@ -1,0 +1,167 @@
+********** Robot program starting **********
+NT: server: client CONNECTED: 172.22.11.1 port 53636
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+********** Robot program startup complete **********
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+Default robotPeriodic() method... Override me!
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+CAN: Message not found
+Error at frc.robot.Main.main(Main.java:23): CAN: Message not found
+edu.wpi.first.hal.CTREPCMJNI.getSolenoids(Native Method)
+edu.wpi.first.wpilibj.PneumaticsControlModule.getSolenoids(PneumaticsControlModule.java:135)
+edu.wpi.first.wpilibj.Solenoid.get(Solenoid.java:86)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.lambda$addBooleanProperty$0(SendableBuilderImpl.java:230)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.update(SendableBuilderImpl.java:104)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.lambda$updateValues$3(LiveWindow.java:191)
+edu.wpi.first.util.sendable.SendableRegistry.foreachLiveWindow(SendableRegistry.java:491)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.updateValues(LiveWindow.java:147)
+edu.wpi.first.wpilibj.IterativeRobotBase.loopFunc(IterativeRobotBase.java:333)
+edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:131)
+edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:373)
+edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:463)
+frc.robot.Main.main(Main.java:23)
+SmartDashboard.updateValues(): 0.001084s
+disabledInit(): 0.000492s
+robotPeriodic(): 0.002393s
+LiveWindow.updateValues(): 0.220931s
+Shuffleboard.update(): 0.000914s
+disabledPeriodic(): 0.000992s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): SmartDashboard.updateValues(): 0.001084s
+disabledInit(): 0.000492s
+robotPeriodic(): 0.002393s
+LiveWindow.updateValues(): 0.220931s
+Shuffleboard.update(): 0.000914s
+disabledPeriodic(): 0.000992s
+CAN: Message not found
+Error at frc.robot.Main.main(Main.java:23): CAN: Message not found
+edu.wpi.first.hal.CTREPCMJNI.getSolenoids(Native Method)
+edu.wpi.first.wpilibj.PneumaticsControlModule.getSolenoids(PneumaticsControlModule.java:135)
+edu.wpi.first.wpilibj.Solenoid.get(Solenoid.java:86)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.lambda$addBooleanProperty$0(SendableBuilderImpl.java:230)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.update(SendableBuilderImpl.java:104)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.lambda$updateValues$3(LiveWindow.java:191)
+edu.wpi.first.util.sendable.SendableRegistry.foreachLiveWindow(SendableRegistry.java:491)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.updateValues(LiveWindow.java:147)
+edu.wpi.first.wpilibj.IterativeRobotBase.loopFunc(IterativeRobotBase.java:333)
+edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:131)
+edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:373)
+edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:463)
+frc.robot.Main.main(Main.java:23)
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+CAN: Message not found
+Error at frc.robot.Main.main(Main.java:23): CAN: Message not found
+edu.wpi.first.hal.CTREPCMJNI.getSolenoids(Native Method)
+edu.wpi.first.wpilibj.PneumaticsControlModule.getSolenoids(PneumaticsControlModule.java:135)
+edu.wpi.first.wpilibj.Solenoid.get(Solenoid.java:86)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.lambda$addBooleanProperty$0(SendableBuilderImpl.java:230)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.update(SendableBuilderImpl.java:104)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.lambda$updateValues$3(LiveWindow.java:191)
+edu.wpi.first.util.sendable.SendableRegistry.foreachLiveWindow(SendableRegistry.java:491)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.updateValues(LiveWindow.java:147)
+edu.wpi.first.wpilibj.IterativeRobotBase.loopFunc(IterativeRobotBase.java:333)
+edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:131)
+edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:373)
+edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:463)
+frc.robot.Main.main(Main.java:23)
+CAN: Message not found
+Error at frc.robot.Main.main(Main.java:23): CAN: Message not found
+edu.wpi.first.hal.CTREPCMJNI.getSolenoids(Native Method)
+edu.wpi.first.wpilibj.PneumaticsControlModule.getSolenoids(PneumaticsControlModule.java:135)
+edu.wpi.first.wpilibj.Solenoid.get(Solenoid.java:86)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.lambda$addBooleanProperty$0(SendableBuilderImpl.java:230)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.update(SendableBuilderImpl.java:104)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.lambda$updateValues$3(LiveWindow.java:191)
+edu.wpi.first.util.sendable.SendableRegistry.foreachLiveWindow(SendableRegistry.java:491)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.updateValues(LiveWindow.java:147)
+edu.wpi.first.wpilibj.IterativeRobotBase.loopFunc(IterativeRobotBase.java:333)
+edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:131)
+edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:373)
+edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:463)
+frc.robot.Main.main(Main.java:23)
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+Joystick axis 1 on port 0 not available, check if controller is plugged in
+Warning at edu.wpi.first.wpilibj.DriverStation.reportJoystickUnpluggedWarning(DriverStation.java:1319): Joystick axis 1 on port 0 not available, check if controller is plugged in
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.037417s
+SmartDashboard.updateValues(): 0.001110s
+robotPeriodic(): 0.000025s
+LiveWindow.updateValues(): 0.001503s
+Shuffleboard.update(): 0.000045s
+teleopInit(): 0.000364s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.037417s
+SmartDashboard.updateValues(): 0.001110s
+robotPeriodic(): 0.000025s
+LiveWindow.updateValues(): 0.001503s
+Shuffleboard.update(): 0.000045s
+teleopInit(): 0.000364s
+Unhandled exception: java.lang.NullPointerException
+Error at frc.robot.Robot.teleopPeriodic(Robot.java:169): Unhandled exception: java.lang.NullPointerException
+The robot program quit unexpectedly. This is usually due to a code error.
+The above stacktrace can help determine where the error occurred.
+See https://wpilib.org/stacktrace for more information.
+at edu.wpi.first.wpilibj.Solenoid.set(Solenoid.java:77)
+at frc.robot.Robot.teleopPeriodic(Robot.java:169)
+at edu.wpi.first.wpilibj.IterativeRobotBase.loopFunc(IterativeRobotBase.java:320)
+at edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:131)
+at edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:373)
+at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:463)
+at frc.robot.Main.main(Main.java:23)
+Warning at edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:388): The robot program quit unexpectedly. This is usually due to a code error.
+The above stacktrace can help determine where the error occurred.
+See https://wpilib.org/stacktrace for more information.
+The startCompetition() method (or methods called by it) should have handled the exception above.
+Error at edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:395): The startCompetition() method (or methods called by it) should have handled the exception above.
+********** Robot program starting **********
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+CS: USB Camera 0: Connecting to USB camera on /dev/video0
+********** Robot program startup complete **********
+Default robotPeriodic() method... Override me!
+CAN: Message not found
+Error at frc.robot.Main.main(Main.java:23): CAN: Message not found
+edu.wpi.first.hal.CTREPCMJNI.getSolenoids(Native Method)
+edu.wpi.first.wpilibj.PneumaticsControlModule.getSolenoids(PneumaticsControlModule.java:135)
+edu.wpi.first.wpilibj.Solenoid.get(Solenoid.java:86)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.lambda$addBooleanProperty$0(SendableBuilderImpl.java:230)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.update(SendableBuilderImpl.java:104)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.lambda$updateValues$3(LiveWindow.java:191)
+edu.wpi.first.util.sendable.SendableRegistry.foreachLiveWindow(SendableRegistry.java:491)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.updateValues(LiveWindow.java:147)
+edu.wpi.first.wpilibj.IterativeRobotBase.loopFunc(IterativeRobotBase.java:333)
+edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:131)
+edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:373)
+edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:463)
+frc.robot.Main.main(Main.java:23)
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+NT: server: client CONNECTED: 172.22.11.1 port 53665
+SmartDashboard.updateValues(): 0.000741s
+disabledInit(): 0.000490s
+robotPeriodic(): 0.000599s
+LiveWindow.updateValues(): 0.093290s
+Shuffleboard.update(): 0.000183s
+disabledPeriodic(): 0.000780s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): SmartDashboard.updateValues(): 0.000741s
+disabledInit(): 0.000490s
+robotPeriodic(): 0.000599s
+LiveWindow.updateValues(): 0.093290s
+Shuffleboard.update(): 0.000183s
+disabledPeriodic(): 0.000780s
+CAN: Message not found
+Error at frc.robot.Main.main(Main.java:23): CAN: Message not found
+edu.wpi.first.hal.CTREPCMJNI.getSolenoids(Native Method)
+edu.wpi.first.wpilibj.PneumaticsControlModule.getSolenoids(PneumaticsControlModule.java:135)
+edu.wpi.first.wpilibj.Solenoid.get(Solenoid.java:86)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.lambda$addBooleanProperty$0(SendableBuilderImpl.java:230)
+edu.wpi.first.wpilibj.smartdashboard.SendableBuilderImpl.update(SendableBuilderImpl.java:104)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.lambda$updateValues$3(LiveWindow.java:191)
+edu.wpi.first.util.sendable.SendableRegistry.foreachLiveWindow(SendableRegistry.java:491)
+edu.wpi.first.wpilibj.livewindow.LiveWindow.updateValues(LiveWindow.java:147)
+edu.wpi.first.wpilibj.IterativeRobotBase.loopFunc(IterativeRobotBase.java:333)
+edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:131)
+edu.wpi.first.wpilibj.RobotBase.runRobot(RobotBase.java:373)
+edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:463)
+frc.robot.Main.main(Main.java:23)
